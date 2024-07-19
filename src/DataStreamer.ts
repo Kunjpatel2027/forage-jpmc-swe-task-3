@@ -1,6 +1,6 @@
 export interface Order {
-  price: number,
-  size: number,
+  price : number;
+  size: number;
 }
 export interface ServerRespond {
   stock: string,
